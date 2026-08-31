@@ -3,11 +3,11 @@
 #  Replace all placeholder values below!
 # =============================================
 
-theme: jekyll-theme-easy-wedding
+remote_theme: jekyll-theme-easy-wedding
 
 # Change these to your names and details
-title: Aldi & Dario        # Shows in browser tab & nav
-email: you@example.com
+title: Aldi & Dario       # Shows in browser tab & nav
+email: aldidarioforever@gmail.com
 url: https://aldidarioforever-ctrl.github.io # Full URL of your site (include https://)
 description: "We're getting married and can't wait to celebrate with you!"
 baseurl: ""
@@ -35,6 +35,7 @@ markdown: kramdown
 permalink: pretty
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
