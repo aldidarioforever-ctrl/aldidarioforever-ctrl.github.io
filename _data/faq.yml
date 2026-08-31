@@ -1,0 +1,47 @@
+# ── FAQ ────────────────────────────────────────
+# Answers support basic HTML (links, <strong>, etc.)
+
+- question: What should I wear?
+  answer: |
+    Black tie optional - a tux or dark suit for men, and a floor-length gown
+    or formal cocktail dress for women. The venue has outdoor garden areas, 
+    so keep footwear in mind!
+
+- question: Where should I stay?
+  answer: |
+    We have a room block at the <strong>Marriott Downtown Nashville</strong>
+    (2 blocks from the venue). Use code <strong>ALEXJORDAN25</strong> when booking
+    at <a href="https://marriott.com" target="_blank">marriott.com</a>.
+    Block available until May 1, 2025.
+
+- question: Is there parking at the venue?
+  answer: |
+    Yes - complimentary valet is available at The Grand Ballroom.
+    Self-parking is also in the adjacent garage on 2nd Ave.
+
+- question: Can I bring a date?
+  answer: |
+    Due to venue capacity, please only bring guests listed on your invitation.
+    Reach out to us if you have any questions!
+
+- question: When is the RSVP deadline?
+  answer: |
+    May 8, 2025 - and you can RSVP right here on this site!
+
+- question: Will there be food for dietary restrictions?
+  answer: |
+    Yes! Please note any needs (vegetarian, vegan, gluten-free, allergies)
+    in your RSVP and our caterer will accommodate you.
+
+- question: Can I take photos and post on social media?
+  answer: |
+    We ask for an unplugged ceremony - phones away during the vows.
+    After that, snap away! Use <strong>#AlexAndJordan2025</strong>.
+
+- question: What time does the reception end?
+  answer: |
+    The party goes until midnight. Shuttles to the hotel block run at 10:30 PM and midnight.
+
+- question: I have a question not listed here!
+  answer: |
+    Reach out at <a href="mailto:you@example.com">you@example.com</a> - happy to help!

@@ -1,0 +1,14 @@
+# ── Names ──────────────────────────────────────
+# short_name: first name only (used in nav initials, titles, etc.)
+# long_name:  full name
+# role:       e.g. Bride / Groom / Partner
+
+spouse1:
+  short_name: Aldi
+  long_name: Aldi Chan
+  role: Bride
+
+spouse2:
+  short_name: Dario
+  long_name: Tommasini
+  role: Groom

@@ -1,0 +1,56 @@
+# ── Events / Schedule ──────────────────────────
+# 'main_event: true' marks the ceremony for "Add to Calendar" in RSVP confirmation.
+# date format for main_event: YYYY-MM-DD HH:MM:SS -HH:MM (ISO 8601 with UTC offset)
+# date format for display-only events: use date_alt with a human-readable string
+
+- name: Wedding Ceremony
+  main_event: true
+  date: 2025-06-14 17:00:00 -05:00
+  endDate: 2025-06-14 18:00:00 -05:00
+  attire: Black tie optional
+  description: >
+    Please arrive 15-20 minutes early to find your seat.
+    Phones off and out of sight during the ceremony.
+  location:
+    venue_name: The Grand Ballroom
+    address: 123 Elm Street
+    city: Nashville
+    state: TN
+    long_state: Tennessee
+    zip: 37201
+    coordinates: 36.162663,-86.781602
+    google_maps_url: https://maps.google.com/?q=123+Elm+Street+Nashville+TN
+  calendar_description: >
+    Alex & Jordan's Wedding Ceremony. Questions? Email you@example.com.
+
+- name: Cocktail Hour
+  date_alt: Immediately following the ceremony
+  attire: Black tie optional
+  description: >
+    Join us for cocktails and hors d'oeuvres on the garden terrace
+    while we take photos. Venue staff will direct you.
+  location:
+    venue_name: The Grand Ballroom - Garden Terrace
+    address: 123 Elm Street
+    city: Nashville
+    state: TN
+    long_state: Tennessee
+    zip: 37201
+    coordinates: 36.162663,-86.781602
+    google_maps_url: https://maps.google.com/?q=123+Elm+Street+Nashville+TN
+
+- name: Reception Dinner & Dancing
+  date_alt: 7:00 PM
+  attire: Black tie optional
+  description: >
+    Dinner, toasts, cake cutting, and dancing until midnight.
+    Don't forget to add your song requests when you RSVP!
+  location:
+    venue_name: The Grand Ballroom - Main Hall
+    address: 123 Elm Street
+    city: Nashville
+    state: TN
+    long_state: Tennessee
+    zip: 37201
+    coordinates: 36.162663,-86.781602
+    google_maps_url: https://maps.google.com/?q=123+Elm+Street+Nashville+TN
