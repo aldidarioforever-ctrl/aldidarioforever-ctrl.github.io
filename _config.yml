@@ -3,7 +3,7 @@
 #  Replace all placeholder values below!
 # =============================================
 
-remote_theme: jekyll-theme-easy-wedding
+remote_theme: cnorick/jekyll-theme-easy-wedding
 
 # Change these to your names and details
 title: Aldi & Dario       # Shows in browser tab & nav
