@@ -1,6 +1,6 @@
 ---
 order: 1
-image: assets/img/chairs.jpg
+image: /assets/img/chairs.jpg
 image_position: center
 ---
 ### The Proposal

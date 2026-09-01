@@ -1,0 +1,45 @@
+# ── Wedding Party & Families ───────────────────
+# Images go in: assets/img/people/
+# Supported: name, pic, role, description, position (top/center/bottom for photo crop)
+
+families:
+  - pic: family-her.jpg
+    name: The Johnsons
+    people: Robert, Linda, and Emma
+  - pic: family-his.jpg
+    name: The Smiths
+    people: Michael, Karen, and Tyler
+
+# Optional: flower girls, ring bearers, pets, etc.
+# kids:
+#   - pic: flower-girl.jpg
+#     name: Lily
+#     role: Flower Girl
+
+her_side:
+  - name: Emma Johnson
+    pic: emma.jpg
+    role: Maid of Honor
+    description: Alex's Sister
+  - name: Priya Patel
+    pic: priya.jpg
+    role: Bridesmaid
+    description: Alex's College Roommate
+  - name: Chloe Davis
+    pic: chloe.jpg
+    role: Bridesmaid
+    description: Alex's Childhood Friend
+
+his_side:
+  - name: Tyler Smith
+    pic: tyler.jpg
+    role: Best Man
+    description: Jordan's Brother
+  - name: Marcus Lee
+    pic: marcus.jpg
+    role: Groomsman
+    description: Jordan's College Roommate
+  - name: Ben Carter
+    pic: ben.jpg
+    role: Groomsman
+    description: Jordan's Childhood Friend

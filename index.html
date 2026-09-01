@@ -1,10 +1,20 @@
 ---
-layout: default
-include: our_story.html
-invisible_nav: true
+permalink: /index.html
 ---
-
-{% include banners.html %}
-{% if page.include %}
-  {% include {{ page.include }} %}
-{% endif %}
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script>
+    var userLang = navigator.language || navigator.userLanguage;
+    if (userLang.startsWith('es')) {
+      window.location.href = "{{ '/es/' | relative_url }}";
+    } else {
+      window.location.href = "{{ '/en/' | relative_url }}";
+    }
+  </script>
+</head>
+<body>
+  <p>Redirecting...</p>
+</body>
+</html>

@@ -1,0 +1,53 @@
+# ── Site-wide Settings ─────────────────────────
+
+# Optional: Google Analytics
+# google_analytics_id: G-XXXXXXXXXX
+
+# Hero image (put your photo in assets/img/ and update path)
+hero_image: /assets/img/hero.jpg
+hero_position: center center
+# mobile_hero_image: /assets/img/hero-mobile.jpg
+# mobile_hero_position: center top
+
+# Theme colors
+theme:
+  primary_color: '#8b7355'
+  # text_color: '#404040'
+  # secondary_color: '#a2a183'
+  # accent_color: '#afa63d'
+  # background_color: '#ffffff'
+
+# ── RSVP ───────────────────────────────────────
+rsvp:
+  use_code: false
+  # To enable invite codes:
+  # use_code: true
+  # code: 5678
+  # code_md5: <md5 of your code — generate at md5hashgenerator.com>
+  # code_location: "Find your invite code on the back of your invitation."
+
+  # Replace with your RSVP backend URL (Netlify Forms, Formspree, api.nathanorick.com, etc.)
+  post_address: https://YOUR-RSVP-ENDPOINT-HERE
+
+  yes_text: "I'll be there!"
+  no_text: "I can't make it"
+  submit_text: Submit RSVP
+  cancel_text: Cancel
+
+  yes_modal_title: "You're on the list!"
+  no_modal_title: "We'll miss you!"
+  yes_modal_body: "We're so excited to celebrate with you. You'll get a text confirmation shortly."
+  no_modal_body: "We'll miss you and appreciate you letting us know. We hope to see you soon!"
+  sms_followup_text: "A text confirmation is on its way."
+
+  song_text: "What songs will get you on the dance floor?"
+  leave_a_message_text: "Leave a note for Alex & Jordan."
+  no_extra_guests_message: "Please only include guests listed on your invitation."
+
+# ── People Page Headers ─────────────────────────
+people:
+  families_header: Our Families
+  families_text: "None of this would be possible without the love and support of our incredible families."
+  kids_header: Little Ones
+  kids_text: "We're so lucky to have these sweet ones be part of our big day."
+  wedding_party_header: Wedding Party

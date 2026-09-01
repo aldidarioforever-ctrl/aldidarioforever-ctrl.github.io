@@ -1,0 +1,12 @@
+- title: "Our Story"
+  url: "/en/#story"
+- title: "Celebrations"
+  url: "/en/celebrations/"
+- title: "People"
+  url: "/en/people/"
+- title: "Details"
+  url: "/en/details/"
+- title: "FAQ"
+  url: "/en/faq/"
+- title: "RSVP"
+  url: "/en/#rsvp" # Or your RSVP page/link
